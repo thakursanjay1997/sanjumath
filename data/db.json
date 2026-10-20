@@ -1,0 +1,461 @@
+{
+  "ownerEmail": "thakursanjay1997@gmail.com",
+  "paymentSettings": {
+    "phone": "7972453092",
+    "upi": "thakursanjay1997@oksbi",
+    "accountHolder": "Bhimsingh Thakur (M.Sc.)"
+  },
+  "coursePrices": {
+    "6": {
+      "math": 4000,
+      "physics": 4000,
+      "combo": 7500
+    },
+    "7": {
+      "math": 5000,
+      "physics": 5000,
+      "combo": 9500
+    },
+    "8": {
+      "math": 6000,
+      "physics": 6000,
+      "combo": 11500
+    },
+    "9": {
+      "math": 7000,
+      "physics": 7000,
+      "combo": 13000
+    },
+    "10": {
+      "math": 8000,
+      "physics": 8000,
+      "combo": 15000
+    }
+  },
+  "announcement": {
+    "text": "📢 Admissions Open for CBSE Academic Session 2027–28 • Pure Mathematics & Applied Physics Live Batches",
+    "isEnabled": true
+  },
+  "emergencyAlert": {
+    "title": "",
+    "message": "",
+    "isActive": false
+  },
+  "liveBroadcast": {
+    "isLive": false,
+    "topic": "Quadratic Equations & Roots Derivation",
+    "subject": "Mathematics",
+    "grade": 10,
+    "startedAt": null
+  },
+  "students": [
+    {
+      "roll": "SM-2026-0002",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@gmail.com",
+      "phone": "9822011223",
+      "grade": 6,
+      "courseName": "Class 6 Comprehensive Batch (COMBO)",
+      "feePaid": 7500,
+      "utr": "t7565yti86878908098",
+      "joinedDate": "10/20/2026",
+      "enrolledGrades": [
+        6
+      ]
+    },
+    {
+      "roll": "SM-2026-0001",
+      "name": "Student",
+      "email": "hugihknln,n@student.sanjumath.com",
+      "phone": "hugihknln,n",
+      "grade": 10,
+      "password": "jguygiukj",
+      "courseName": "Class 10 Comprehensive Batch",
+      "feePaid": 0,
+      "utr": "SELF_LOGIN",
+      "joinedDate": "10/20/2026",
+      "enrolledGrades": []
+    }
+  ],
+  "pendingPayments": [
+    {
+      "id": "pay_1792477233250_1a6t",
+      "studentName": "Aarav Sharma",
+      "studentEmail": "aarav.sharma@gmail.com",
+      "studentPhone": "9822011223",
+      "grade": 6,
+      "courseName": "Class 6 Comprehensive Batch (COMBO)",
+      "fee": 7500,
+      "utr": "t7565yti86878908098",
+      "date": "06:20 AM",
+      "status": "APPROVED"
+    },
+    {
+      "id": "pay_1792476043362_380x",
+      "studentName": "Sanjay Test Student",
+      "studentEmail": "test.sanjay@student.com",
+      "studentPhone": "9811223344",
+      "grade": 10,
+      "courseName": "Class 10 Math + Physics Combo",
+      "fee": 15000,
+      "utr": "SBI-998877665544",
+      "date": "06:00 AM",
+      "status": "APPROVED"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "cpn_1",
+      "code": "SANJU10",
+      "type": "percent",
+      "value": 10,
+      "desc": "Official Academy 10% Welcome Discount",
+      "active": true,
+      "usageCount": 0
+    },
+    {
+      "id": "cpn_2",
+      "code": "TOPPER20",
+      "type": "percent",
+      "value": 20,
+      "desc": "CBSE Merit Topper 20% Scholarship",
+      "active": true,
+      "usageCount": 0
+    },
+    {
+      "id": "cpn_3",
+      "code": "SPECIAL2000",
+      "type": "flat",
+      "value": 2000,
+      "desc": "Flat ₹2,000 Off on Combo Batches",
+      "active": true,
+      "usageCount": 0
+    }
+  ],
+  "scheduledClasses": [
+    {
+      "id": "sc_1",
+      "grade": 10,
+      "subject": "Mathematics",
+      "topic": "Quadratic Equations & Graph Analysis",
+      "time": "Today at 6:00 PM IST"
+    },
+    {
+      "id": "sc_2",
+      "grade": 10,
+      "subject": "Physics",
+      "topic": "Ohm's Law, Resistance & Parallel Circuits",
+      "time": "Tomorrow at 6:30 PM IST"
+    }
+  ],
+  "lectureRecordings": [
+    {
+      "id": "rec_1",
+      "title": "Class 10: Quadratic Equations - Deriving the Complete Quadratic Formula",
+      "subject": "Mathematics",
+      "grade": 10,
+      "duration": "52 mins",
+      "date": "Recent"
+    },
+    {
+      "id": "rec_2",
+      "title": "Class 10: Light Refraction & Snell's Law with Ray Diagrams",
+      "subject": "Physics",
+      "grade": 10,
+      "duration": "48 mins",
+      "date": "Recent"
+    },
+    {
+      "id": "rec_3",
+      "title": "Class 10: Real Numbers - Fundamental Theorem & Irrationality of √3",
+      "subject": "Mathematics",
+      "grade": 10,
+      "duration": "45 mins",
+      "date": "Recent"
+    },
+    {
+      "id": "rec_4",
+      "title": "Class 10: Arithmetic Progressions - nth Term & Sum of Series Derivation",
+      "subject": "Mathematics",
+      "grade": 10,
+      "duration": "50 mins",
+      "date": "Recent"
+    },
+    {
+      "id": "rec_5",
+      "title": "Class 10: Electricity - Ohm's Law, Equivalent Resistance & Joule's Heating",
+      "subject": "Physics",
+      "grade": 10,
+      "duration": "55 mins",
+      "date": "Recent"
+    },
+    {
+      "id": "rec_6",
+      "title": "Class 9: Motion - Derivation of 3 Equations of Motion graphically",
+      "subject": "Physics",
+      "grade": 9,
+      "duration": "46 mins",
+      "date": "Recent"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz_1",
+      "title": "Class 10 Math: Quadratic Equations Concept Drill",
+      "grade": 10,
+      "subject": "Mathematics",
+      "questions": [
+        {
+          "q": "What is the discriminant formula for standard quadratic ax² + bx + c = 0?",
+          "options": [
+            "D = b² - 4ac",
+            "D = b² + 4ac",
+            "D = 4ac - b²",
+            "D = √b - 4ac"
+          ],
+          "correct": 0,
+          "explanation": "The discriminant formula is strictly D = b² - 4ac."
+        },
+        {
+          "q": "When D = 0, what is the nature of the roots of the quadratic equation?",
+          "options": [
+            "No real roots (imaginary)",
+            "Two equal real roots",
+            "Two distinct irrational roots",
+            "Infinite roots"
+          ],
+          "correct": 1,
+          "explanation": "When D = 0, both roots are equal and real: x = -b / (2a)."
+        }
+      ]
+    },
+    {
+      "id": "quiz_2",
+      "title": "Class 10 Math: Real Numbers & Prime Factorisation Drill",
+      "grade": 10,
+      "subject": "Mathematics",
+      "questions": [
+        {
+          "q": "According to the Fundamental Theorem of Arithmetic, every composite number can be factored as a product of:",
+          "options": [
+            "Primes uniquely, apart from the order",
+            "Any integers uniquely",
+            "Odd numbers only",
+            "Fractions"
+          ],
+          "correct": 0,
+          "explanation": "Every composite number can be uniquely expressed as a product of prime powers."
+        },
+        {
+          "q": "If HCF(a, b) = 4 and a × b = 96, what is LCM(a, b)?",
+          "options": [
+            "24",
+            "48",
+            "16",
+            "384"
+          ],
+          "correct": 0,
+          "explanation": "HCF × LCM = a × b => 4 × LCM = 96 => LCM = 24."
+        }
+      ]
+    },
+    {
+      "id": "quiz_3",
+      "title": "Class 10 Math: Arithmetic Progressions (AP) Diagnostic",
+      "grade": 10,
+      "subject": "Mathematics",
+      "questions": [
+        {
+          "q": "What is the 10th term of the AP: 2, 7, 12, ...?",
+          "options": [
+            "47",
+            "52",
+            "45",
+            "50"
+          ],
+          "correct": 0,
+          "explanation": "a = 2, d = 5. a₁₀ = 2 + (10 - 1)×5 = 2 + 45 = 47."
+        },
+        {
+          "q": "The formula for the sum of the first n terms of an AP with first term 'a' and last term 'l' is:",
+          "options": [
+            "Sₙ = (n / 2)(a + l)",
+            "Sₙ = n(a + l)",
+            "Sₙ = (n / 2)(2a + l)",
+            "Sₙ = 2n(a + l)"
+          ],
+          "correct": 0,
+          "explanation": "Sₙ = (n / 2)(a + l) where l is the nth term."
+        }
+      ]
+    },
+    {
+      "id": "quiz_4",
+      "title": "Class 10 Physics: Light Reflection & Refraction Concept Test",
+      "grade": 10,
+      "subject": "Physics",
+      "questions": [
+        {
+          "q": "What is the refractive index formula using angles of incidence (i) and refraction (r)?",
+          "options": [
+            "sin i / sin r",
+            "sin r / sin i",
+            "cos i / cos r",
+            "tan i / tan r"
+          ],
+          "correct": 0,
+          "explanation": "Snell's Law states n = sin i / sin r."
+        },
+        {
+          "q": "What is the focal length of a convex lens whose power is +2.0 Diopters?",
+          "options": [
+            "+0.5 m (+50 cm)",
+            "+2.0 m",
+            "-0.5 m",
+            "+1.0 m"
+          ],
+          "correct": 0,
+          "explanation": "f = 1 / P = 1 / (+2.0 D) = +0.5 meters (+50 cm)."
+        }
+      ]
+    },
+    {
+      "id": "quiz_5",
+      "title": "Class 10 Physics: Electricity & Resistance Test Drill",
+      "grade": 10,
+      "subject": "Physics",
+      "questions": [
+        {
+          "q": "Two resistors of 6 Ω and 3 Ω are connected in parallel. What is the equivalent resistance?",
+          "options": [
+            "2 Ω",
+            "9 Ω",
+            "4.5 Ω",
+            "1 Ω"
+          ],
+          "correct": 0,
+          "explanation": "1/Rₚ = 1/6 + 1/3 = 3/6 = 1/2 => Rₚ = 2 Ω."
+        },
+        {
+          "q": "Which law states that heat generated in a conductor is directly proportional to I²Rt?",
+          "options": [
+            "Joule's Law of Heating",
+            "Ohm's Law",
+            "Faraday's Law",
+            "Ampere's Law"
+          ],
+          "correct": 0,
+          "explanation": "Joule's law states H = I²Rt."
+        }
+      ]
+    }
+  ],
+  "studentProgress": {},
+  "doubts": [],
+  "auditLogs": [
+    {
+      "id": "log_1792477590561_z13t",
+      "time": "06:26:30 AM",
+      "text": "[FACULTY DELETED] Faculty Dr. Ramesh Kulkarni (FAC-TEST-01) deleted by Director."
+    },
+    {
+      "id": "log_1792477578849_v1j8",
+      "time": "06:26:18 AM",
+      "text": "[FACULTY ACCESS DISCONTINUED] Faculty Dr. Ramesh Kulkarni (FAC-TEST-01) access changed from ACTIVE to DISCONTINUED by Director."
+    },
+    {
+      "id": "log_1792477569563_ri67",
+      "time": "06:26:09 AM",
+      "text": "[FACULTY CREATED] Issued Faculty ID FAC-TEST-01 to Dr. Ramesh Kulkarni by Director."
+    },
+    {
+      "id": "log_1792477355055_ieje",
+      "time": "06:22:35 AM",
+      "text": "Directorate console unlocked by Owner (thakursanjay1997@gmail.com)."
+    },
+    {
+      "id": "log_1792477243448_3jjt",
+      "time": "06:20:43 AM",
+      "text": "[PAYMENT APPROVED] Fee verified for Aarav Sharma (Class 6, ₹7500, Roll SM-2026-0002). Student portal unlocked."
+    },
+    {
+      "id": "log_1792477233250_m6pw",
+      "time": "06:20:33 AM",
+      "text": "[PAYMENT SUBMITTED] Aarav Sharma for Class 6 (UTR: t7565yti86878908098, ₹7500). Waiting for Owner approval."
+    },
+    {
+      "id": "log_1792477218674_52r8",
+      "time": "06:20:18 AM",
+      "text": "[NEW STUDENT ENROLLED] Student logged in (SM-2026-0001)."
+    },
+    {
+      "id": "log_1792477178038_30s0",
+      "time": "06:19:38 AM",
+      "text": "Announcement banner modified: \"📢 Admissions Open for CBSE Academic Session 2027–28 • Pure Mathematics & Applied Physics Live Batches\""
+    },
+    {
+      "id": "log_1792477138970_oe2y",
+      "time": "06:18:58 AM",
+      "text": "Directorate console unlocked by Owner (thakursanjay1997@gmail.com)."
+    },
+    {
+      "id": "log_1792477048484_n6fx",
+      "time": "06:17:28 AM",
+      "text": "Live broadcast switched: OFFLINE"
+    },
+    {
+      "id": "log_1792477021668_6hxz",
+      "time": "06:17:01 AM",
+      "text": "Live broadcast switched: 🔴 LIVE STREAMING"
+    },
+    {
+      "id": "log_1792476090181_lw0v",
+      "time": "06:01:30 AM",
+      "text": "Enrollment revoked for student Sanjay Test Student (SM-2026-0001)."
+    },
+    {
+      "id": "log_1792476063839_7yjf",
+      "time": "06:01:03 AM",
+      "text": "[PAYMENT APPROVED] Fee verified for Sanjay Test Student (Class 10, ₹15000, Roll SM-2026-0001). Student portal unlocked."
+    },
+    {
+      "id": "log_1792476043363_r4ov",
+      "time": "06:00:43 AM",
+      "text": "[PAYMENT SUBMITTED] Sanjay Test Student for Class 10 (UTR: SBI-998877665544, ₹15000). Waiting for Owner approval."
+    },
+    {
+      "id": "log_1792476036913_0pt3",
+      "time": "06:00:36 AM",
+      "text": "[NEW STUDENT REGISTERED] Sanjay Test Student (Class 10, Roll SM-2026-0001)."
+    },
+    {
+      "id": "log_1792476031841_mmvn",
+      "time": "06:00:31 AM",
+      "text": "Directorate console unlocked by Owner (thakursanjay1997@gmail.com)."
+    },
+    {
+      "id": "log_1",
+      "time": "Initial",
+      "text": "Directorate database initialized for Bhimsingh Thakur. Real-time active."
+    }
+  ],
+  "faculties": [
+    {
+      "id": "fac_1",
+      "facultyId": "BHIMSINGH-THAKUR",
+      "name": "Bhimsingh Thakur (M.Sc.)",
+      "password": "teach123",
+      "subject": "Pure Mathematics & Applied Physics",
+      "grades": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "status": "ACTIVE",
+      "createdAt": "Official",
+      "email": "bhimsingh@sanjumath.com"
+    }
+  ]
+}

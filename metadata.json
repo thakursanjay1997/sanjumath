@@ -1,0 +1,8 @@
+{
+  "name": "SANJU MATH - Premier CBSE Mathematics \u0026 Physics Academy",
+  "description": "Dynamic EdTech platform for CBSE Classes 6-10 with dedicated Student, Faculty, and Owner Portals, live smartboard classrooms, and verified fee approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
